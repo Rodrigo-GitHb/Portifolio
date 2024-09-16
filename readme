@@ -1,0 +1,7 @@
+Para criar o arquivo less:
+    npm i -g less
+    npm init
+    npm i --save-dev
+    npm i --save-dev less
+        npm i -g less-watch-compiler *Para criar o watch no less*
+        npm i -save-dev less-watch-compiler
